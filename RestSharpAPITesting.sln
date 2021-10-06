@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestSharpAPITesting", "RestSharpAPITesting\RestSharpAPITesting.csproj", "{1A441948-A253-4657-94EF-BAC0BCE2B66D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReqRes", "ReqRes\ReqRes.csproj", "{49BEDA29-1BD3-4F3F-9354-6CD9B60DCE7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A441948-A253-4657-94EF-BAC0BCE2B66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A441948-A253-4657-94EF-BAC0BCE2B66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A441948-A253-4657-94EF-BAC0BCE2B66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A441948-A253-4657-94EF-BAC0BCE2B66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49BEDA29-1BD3-4F3F-9354-6CD9B60DCE7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BEDA29-1BD3-4F3F-9354-6CD9B60DCE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BEDA29-1BD3-4F3F-9354-6CD9B60DCE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BEDA29-1BD3-4F3F-9354-6CD9B60DCE7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AD2CB02-5FCC-4E90-B595-E5797A54635A}
+	EndGlobalSection
+EndGlobal
